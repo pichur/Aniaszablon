@@ -2,8 +2,8 @@
   "title": "Ania",
   "titleTemplate": "Ania",
   "welcomeText": "# *Hej,*\n\n### lubię psy:)",
-  "logo": "/images/uploads/61576588-wektor-psa-logo-na-białym-tle-.webp",
-  "icon": "/images/uploads/61576588-wektor-psa-logo-na-białym-tle-.webp",
+  "logo": "/images/uploads/dog.jpg",
+  "icon": "/images/uploads/dog.jpg",
   "loadingColor": "#0b3765",
   "seoDescription": "A quickstart for Nuxt & Netlify CMS",
   "seoMetaImage": ""
